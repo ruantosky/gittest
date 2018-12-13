@@ -1,5 +1,8 @@
 <?php
 echo 'hello world!';
 
-echo 'config';
 
+echo 'config';
+function  erfen($arr,$a){
+
+}
